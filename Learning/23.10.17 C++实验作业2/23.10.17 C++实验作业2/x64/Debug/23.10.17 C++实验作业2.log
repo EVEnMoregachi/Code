@@ -1,0 +1,12 @@
+﻿  Canvas.cpp
+F:\Code\Learning\23.10.17 C++实验作业2\23.10.17 C++实验作业2\Canvas.cpp(68,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Shape.cpp
+  User.cpp
+  main.cpp
+  myCircle.cpp
+  myEllipse.cpp
+  myLine.cpp
+  myRectangle.cpp
+  正在生成代码...
+  LINK : 没有找到 F:\Code\Learning\23.10.17 C++实验作业2\x64\Debug\23.10.17 C++实验作业2.exe 或上一个增量链接没有生成它；正在执行完全链接
+  23.10.17 C++实验作业2.vcxproj -> F:\Code\Learning\23.10.17 C++实验作业2\x64\Debug\23.10.17 C++实验作业2.exe

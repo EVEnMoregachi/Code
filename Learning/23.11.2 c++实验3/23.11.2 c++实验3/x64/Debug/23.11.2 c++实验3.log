@@ -1,0 +1,7 @@
+﻿  Canvas.cpp
+F:\Code\Learning\23.10.17 C++实验作业2\23.10.17 C++实验作业2\Canvas.cpp(71,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+F:\Code\Learning\23.10.17 C++实验作业2\23.10.17 C++实验作业2\Canvas.cpp(260,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  UserMenu.cpp
+  正在生成代码...
+F:\Code\Learning\23.10.17 C++实验作业2\23.10.17 C++实验作业2\Canvas.cpp(306): warning C4715: “Canvas::colorType”: 不是所有的控件路径都返回值
+  23.11.2 c++实验3.vcxproj -> F:\Code\Learning\23.11.2 c++实验3\x64\Debug\23.11.2 c++实验3.exe

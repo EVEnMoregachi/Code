@@ -1,0 +1,5 @@
+﻿  源.c
+F:\Code\Learning\22.11.19\22.11.19\源.c(121,25): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\Code\Learning\22.11.19\22.11.19\源.c(144,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\Code\Learning\22.11.19\22.11.19\源.c(142,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  22.11.19.vcxproj -> F:\Code\Learning\22.11.19\x64\Debug\22.11.19.exe

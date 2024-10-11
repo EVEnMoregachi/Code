@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Code\Learning\23.10.29 算法实验2\23.10.29 算法实验2\main.cpp(86,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  23.10.29 算法实验2.vcxproj -> F:\Code\Learning\23.10.29 算法实验2\x64\Debug\23.10.29 算法实验2.exe

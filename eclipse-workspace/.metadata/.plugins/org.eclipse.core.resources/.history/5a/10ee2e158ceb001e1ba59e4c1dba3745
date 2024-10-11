@@ -1,0 +1,14 @@
+package cn.swust.wangzhongxian.exp.ui;
+
+import javax.swing.JFrame;
+
+public class PaintApp {
+	public static void main(String[] args) {
+		JFrame frame= new JFrame("画图板");
+		frame.setSize(500, 500);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setVisible(true);
+
+	}
+
+}

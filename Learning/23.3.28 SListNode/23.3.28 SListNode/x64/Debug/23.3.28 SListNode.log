@@ -1,0 +1,16 @@
+﻿  Test.c
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(12,19): warning C4047: “函数”:“SLN *”与“SLN **”的间接级别不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(12,13): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(17,19): warning C4047: “函数”:“SLN *”与“SLN **”的间接级别不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(17,13): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(20,19): warning C4047: “函数”:“SLN *”与“SLN **”的间接级别不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(20,13): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(31,19): warning C4047: “函数”:“SLN *”与“SLN **”的间接级别不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(31,13): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(35,19): warning C4047: “函数”:“SLN *”与“SLN **”的间接级别不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(35,13): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(45,19): warning C4047: “函数”:“SLN *”与“SLN **”的间接级别不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(45,13): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(49,19): warning C4047: “函数”:“SLN *”与“SLN **”的间接级别不同
+F:\Code\Learning\23.3.28 SListNode\23.3.28 SListNode\Test.c(49,13): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+  23.3.28 SListNode.vcxproj -> F:\Code\Learning\23.3.28 SListNode\x64\Debug\23.3.28 SListNode.exe

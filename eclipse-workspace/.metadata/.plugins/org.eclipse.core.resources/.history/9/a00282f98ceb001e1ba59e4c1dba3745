@@ -1,0 +1,27 @@
+package cn.swust.wangzhongxian.exp.ui;
+
+import java.awt.Canvas;
+import java.awt.Graphics;
+import java.awt.Point;
+
+import cn.swust.wangzhongxian.exp.Rectangel;
+
+public class MyCanvas extends Canvas{
+	private Rectangel rect;
+	
+	public MyCanvas() {
+		rect = new Rectangel();
+		rect.setStart(new Point(100,100));
+		rect.setEnd(new Point(400,400));
+	}
+
+
+	@Override
+	public void paint(Graphics g) {
+		super.paint(g);//清空画布
+		rect.drawFiguer(g);
+		
+	}
+	
+
+}

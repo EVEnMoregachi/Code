@@ -1,0 +1,6 @@
+﻿  源.c
+F:\Code\Learning\23.2.16\23.2.16\源.c(185,12): warning C4305: “=”: 从“double”到“float”截断
+F:\Code\Learning\23.2.16\23.2.16\源.c(197,12): warning C4305: “=”: 从“double”到“float”截断
+F:\Code\Learning\23.2.16\23.2.16\源.c(209,12): warning C4305: “=”: 从“double”到“float”截断
+F:\Code\Learning\23.2.16\23.2.16\源.c(212,12): warning C4305: “=”: 从“double”到“float”截断
+  23.2.16.vcxproj -> F:\Code\Learning\23.2.16\x64\Debug\23.2.16.exe

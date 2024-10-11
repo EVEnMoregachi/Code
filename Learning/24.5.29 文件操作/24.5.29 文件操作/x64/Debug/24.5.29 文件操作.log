@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Code\Learning\24.5.29 文件操作\24.5.29 文件操作\main.cpp(110,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\Code\Learning\24.5.29 文件操作\24.5.29 文件操作\main.cpp(400,6): warning C4101: “i”: 未引用的局部变量
+F:\Code\Learning\24.5.29 文件操作\24.5.29 文件操作\main.cpp(447,7): warning C4101: “c”: 未引用的局部变量
+  24.5.29 文件操作.vcxproj -> F:\Code\Learning\24.5.29 文件操作\x64\Debug\24.5.29 文件操作.exe
