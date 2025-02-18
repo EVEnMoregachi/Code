@@ -113,9 +113,10 @@ def batch_audio(root_folder, audio_path):
 root_folder = "F:/BaiduNetdiskDownload/2b"
 
 # 处理文件名称 并且解压
-# traverse_folders(root_folder)
+#traverse_folders(root_folder)
 
 # 删除.zip
+#
 del_zip(root_folder)
 
 # # 处理视频音频
