@@ -110,14 +110,13 @@ def batch_audio(root_folder, audio_path):
 
 
 # 替换文件夹集合根目录
-root_folder = "F:/BaiduNetdiskDownload/2b"
+root_folder = "F:/BaiduNetdiskDownload/极速下载__次元"
 
 # 处理文件名称 并且解压
-#traverse_folders(root_folder)
+traverse_folders(root_folder)
 
 # 删除.zip
-#
-del_zip(root_folder)
+#del_zip(root_folder)
 
 # # 处理视频音频
 # video_path = 'F:/FFOutput/a1/20240517 2049/c4a55146_2024-05-16_23-38-34.mp4'
