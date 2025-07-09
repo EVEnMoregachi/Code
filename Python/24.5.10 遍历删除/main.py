@@ -110,7 +110,7 @@ def batch_audio(root_folder, audio_path):
 
 
 # 替换文件夹集合根目录
-root_folder = "F:/BaiduNetdiskDownload/极速下载__次元"
+root_folder = "F:/BaiduNetdiskDownload/1a"
 
 # 处理文件名称 并且解压
 traverse_folders(root_folder)
